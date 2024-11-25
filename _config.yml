@@ -1,1 +1,3 @@
 syntax_highlighter_style: colorful
+toc:
+    enabled: true
